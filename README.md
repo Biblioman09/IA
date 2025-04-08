@@ -1,1 +1,1 @@
-# Ejemplos TensorFlow aprendizaje autoático con Colab
+# Ejemplos TensorFlow aprendizaje automático con Colab
